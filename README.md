@@ -21,8 +21,8 @@ Currently it contains information from the given conferences:
 | [IJCNLP](https://aclanthology.org/venues/ijcnlp/) | 2017, 2019, 2021, 2022 |
 | [KDD](https://kdd.org/) | 2017, 2018, 2020, 2021, 2022, 2023 |
 | [NAACL](https://aclanthology.org/venues/naacl/) | 2018, 2019, 2021, 2022 |
-| [NeurIPS](https://proceedings.neurips.cc/) | 2017, 2018, 2019, 2020, 2021, 2022 |
+| [NeurIPS](https://proceedings.neurips.cc/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023 |
 | [SIGCHI](https://sigchi.org/) | 2018, 2019, 2020, 2021, 2022 |
 | [SIGDIAL](https://aclanthology.org/sigs/sigdial/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023 |
 | [TACL](https://aclanthology.org/venues/tacl/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023 |
-| [WACV](https://openaccess.thecvf.com/) | 2020, 2021, 2022, 2023 |
+| [WACV](https://openaccess.thecvf.com/) | 2020, 2021, 2022, 2023, 2024 |
