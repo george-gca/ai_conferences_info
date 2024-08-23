@@ -8,7 +8,7 @@ Currently it contains the titles, abstracts, urls, and authors names from the gi
 | Conferences | Years |
 | --- | --- |
 | [AAAI](https://www.aaai.org/Library/AAAI/aaai-library.php) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
-| [ACL](https://aclanthology.org/venues/acl/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023 |
+| [ACL](https://aclanthology.org/venues/acl/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
 | [COLING](https://aclanthology.org/venues/coling/) | 2018, 2020, 2022, 2024 |
 | [CVPR](https://openaccess.thecvf.com/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
 | [EACL](https://aclanthology.org/venues/eacl/) | 2017, 2021, 2023, 2024 |
