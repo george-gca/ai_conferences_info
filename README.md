@@ -18,7 +18,7 @@ Currently it contains the titles, abstracts, urls, and authors names from the gi
 | [ICCV](https://openaccess.thecvf.com/) | 2017, 2019, 2021, 2023 |
 | [ICLR](https://openreview.net/group?id=ICLR.cc) | 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
 | [ICML](https://proceedings.mlr.press/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
-| [IJCAI](https://www.ijcai.org/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023 |
+| [IJCAI](https://www.ijcai.org/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
 | [IJCNLP](https://aclanthology.org/venues/ijcnlp/) | 2017, 2019, 2021, 2022 |
 | [KDD](https://kdd.org/) | 2017, 2018, 2020, 2021, 2022, 2023 |
 | [NAACL](https://aclanthology.org/venues/naacl/) | 2018, 2019, 2021, 2022, 2024 |
