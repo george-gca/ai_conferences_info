@@ -24,7 +24,7 @@ Currently it contains the titles, abstracts, urls, and authors names from the gi
 | [NAACL](https://aclanthology.org/venues/naacl/) | 2018, 2019, 2021, 2022, 2024 |
 | [NeurIPS](https://proceedings.neurips.cc/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
 | [SIGCHI](https://sigchi.org/) | 2018, 2019, 2020, 2021, 2022 |
-| [SIGDIAL](https://aclanthology.org/sigs/sigdial/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023. 2024 |
+| [SIGDIAL](https://aclanthology.org/sigs/sigdial/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
 | [SIGGRAPH](https://www.siggraph.org/siggraph-events/conferences/) | 2017, 2018, 2019, 2021, 2022, 2023, 2024 |
 | [SIGGRAPH Asia](https://www.siggraph.org/siggraph-events/conferences/) | 2017, 2019, 2020, 2021, 2022, 2023 |
 | [TACL](https://aclanthology.org/venues/tacl/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
