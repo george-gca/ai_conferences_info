@@ -7,7 +7,7 @@ Currently it contains the titles, abstracts, urls, and authors names from the gi
 
 | Acronym | Conference or Journal | Years |
 | --- | --- | --- |
-| AAAI | [AAAI Conference on Artificial Intelligence](https://www.aaai.org/Library/AAAI/aaai-library.php) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
+| AAAI | [AAAI Conference on Artificial Intelligence](https://www.aaai.org/Library/AAAI/aaai-library.php) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
 | ACL | [Annual Meeting of the Association for Computational Linguistics](https://aclanthology.org/venues/acl/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
 | COLING | [International Conference on Computational Linguistics](https://aclanthology.org/venues/coling/) | 2018, 2020, 2022, 2024, 2025 |
 | CVPR | [The IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://openaccess.thecvf.com/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
