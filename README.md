@@ -16,13 +16,13 @@ Currently it contains the titles, abstracts, urls, and authors names from the gi
 | EMNLP | [Conference on Empirical Methods in Natural Language Processing](https://aclanthology.org/venues/emnlp/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
 | Findings | [Findings of the Association for Computational Linguistics](https://aclanthology.org/venues/findings/) | 2020, 2021, 2022, 2023, 2024 |
 | ICCV | [International Conference on Computer Vision](https://openaccess.thecvf.com/) | 2017, 2019, 2021, 2023 |
-| ICLR | [International Conference on Learning Representations](https://openreview.net/group?id=ICLR.cc) | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
+| ICLR | [International Conference on Learning Representations](https://openreview.net/group?id=ICLR.cc) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
 | ICML | [International Conference on Machine Learning](https://proceedings.mlr.press/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
 | IJCAI | [International Joint Conferences on Artificial Intelligence](https://www.ijcai.org/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
 | IJCNLP | [International Joint Conference on Natural Language Processing](https://aclanthology.org/venues/ijcnlp/) | 2017, 2019, 2021, 2022 |
 | IJCV | [International Journal of Computer Vision](https://link.springer.com/journal/11263) | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
 | KDD | [ACM SIGKDD International Conference on Knowledge Discovery and Data Mining](https://kdd.org/) | 2017, 2018, 2020, 2021, 2022, 2023 |
-| NAACL | [North American Chapter of the Association for Computational Linguistics](https://aclanthology.org/venues/naacl/) | 2018, 2019, 2021, 2022, 2024 |
+| NAACL | [North American Chapter of the Association for Computational Linguistics](https://aclanthology.org/venues/naacl/) | 2018, 2019, 2021, 2022, 2024, 2025 |
 | NeurIPS | [Annual Conference on Neural Information Processing Systems](https://proceedings.neurips.cc/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
 | SIGCHI | [ACM Special Interest Group on Computer-Human Interaction](https://sigchi.org/) | 2018, 2019, 2020, 2021, 2022 |
 | SIGDIAL | [ACL/ISCA Special Interest Group on Discourse and Dialogue](https://aclanthology.org/sigs/sigdial/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
