@@ -1,6 +1,6 @@
 # AI Conferences Info
 
-Papers' informations from top AI conferences. [Here you can visualize](https://flatgithub.com/george-gca/ai_conferences_info/) the information contained in this repo.
+Papers' informations from top AI conferences and journals. [Here you can visualize](https://flatgithub.com/george-gca/ai_conferences_info/) the information contained in this repo.
 If you want an easy way to search for paper information inside these conferences, please check my [search site](https://georgegca.pythonanywhere.com/).
 
 Currently it contains the titles, abstracts, urls, and authors names from the given conferences:
