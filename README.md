@@ -18,6 +18,7 @@ Currently it contains the titles, abstracts, urls, and authors names from the gi
 | ICCV | [International Conference on Computer Vision](https://openaccess.thecvf.com/) | 2017, 2019, 2021, 2023 |
 | ICLR | [International Conference on Learning Representations](https://openreview.net/group?id=ICLR.cc) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
 | ICML | [International Conference on Machine Learning](https://proceedings.mlr.press/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
+| ICRA | [IEEE International Conference on Robotics and Automation](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
 | IJCAI | [International Joint Conferences on Artificial Intelligence](https://www.ijcai.org/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
 | IJCNLP | [International Joint Conference on Natural Language Processing](https://aclanthology.org/venues/ijcnlp/) | 2017, 2019, 2021, 2022 |
 | IJCV | [International Journal of Computer Vision](https://link.springer.com/journal/11263) | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
