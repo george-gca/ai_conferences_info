@@ -29,6 +29,6 @@ Currently it contains the titles, abstracts, urls, and authors names from the gi
 | SIGDIAL | [ACL/ISCA Special Interest Group on Discourse and Dialogue](https://aclanthology.org/sigs/sigdial/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
 | SIGGRAPH | [International Conference & Exhibition On Computer Graphics & Interactive Techniques](https://www.siggraph.org/siggraph-events/conferences/) | 2017, 2018, 2019, 2021, 2022, 2023, 2024 |
 | SIGGRAPH Asia | [ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia](https://www.siggraph.org/siggraph-events/conferences/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
-| TACL | [Transactions of the Association for Computational Linguistics](https://aclanthology.org/venues/tacl/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
+| TACL | [Transactions of the Association for Computational Linguistics](https://aclanthology.org/venues/tacl/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
 | TPAMI | [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
 | WACV | [IEEE/CVF Winter Conference on Applications of Computer Vision](https://openaccess.thecvf.com/) | 2020, 2021, 2022, 2023, 2024, 2025 |
