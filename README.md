@@ -9,6 +9,7 @@ Currently it contains the titles, abstracts, urls, and authors names from the gi
 | --- | --- | --- |
 | AAAI | [AAAI Conference on Artificial Intelligence](https://www.aaai.org/Library/AAAI/aaai-library.php) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
 | ACL | [Annual Meeting of the Association for Computational Linguistics](https://aclanthology.org/venues/acl/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
+| AISTATS | [International Conference on Artificial Intelligence and Statistics](https://aistats.org/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
 | COLING | [International Conference on Computational Linguistics](https://aclanthology.org/venues/coling/) | 2018, 2020, 2022, 2024, 2025 |
 | CVPR | [The IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://openaccess.thecvf.com/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
 | EACL | [European Chapter of the Association for Computational Linguistics](https://aclanthology.org/venues/eacl/) | 2017, 2021, 2023, 2024 |
@@ -31,4 +32,5 @@ Currently it contains the titles, abstracts, urls, and authors names from the gi
 | SIGGRAPH Asia | [ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia](https://www.siggraph.org/siggraph-events/conferences/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
 | TACL | [Transactions of the Association for Computational Linguistics](https://aclanthology.org/venues/tacl/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
 | TPAMI | [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
+| UAI | [Conference on Uncertainty in Artificial Intelligence](https://www.auai.org/) | 2019, 2020, 2021, 2022, 2023, 2024 |
 | WACV | [IEEE/CVF Winter Conference on Applications of Computer Vision](https://openaccess.thecvf.com/) | 2020, 2021, 2022, 2023, 2024, 2025 |
