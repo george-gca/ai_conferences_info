@@ -8,14 +8,14 @@ Currently it contains the titles, abstracts, urls, and authors names from the gi
 | Acronym | Conference or Journal | Years |
 | --- | --- | --- |
 | AAAI | [AAAI Conference on Artificial Intelligence](https://www.aaai.org/Library/AAAI/aaai-library.php) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
-| ACL | [Annual Meeting of the Association for Computational Linguistics](https://aclanthology.org/venues/acl/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
+| ACL | [Annual Meeting of the Association for Computational Linguistics](https://aclanthology.org/venues/acl/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
 | AISTATS | [International Conference on Artificial Intelligence and Statistics](https://aistats.org/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
 | COLING | [International Conference on Computational Linguistics](https://aclanthology.org/venues/coling/) | 2018, 2020, 2022, 2024, 2025 |
 | CVPR | [The IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://openaccess.thecvf.com/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
 | EACL | [European Chapter of the Association for Computational Linguistics](https://aclanthology.org/venues/eacl/) | 2017, 2021, 2023, 2024 |
 | ECCV | [European Conference on Computer Vision (ECCV)](https://www.ecva.net/papers.php) | 2018, 2020, 2022, 2024 |
 | EMNLP | [Conference on Empirical Methods in Natural Language Processing](https://aclanthology.org/venues/emnlp/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
-| Findings | [Findings of the Association for Computational Linguistics](https://aclanthology.org/venues/findings/) | 2020, 2021, 2022, 2023, 2024 |
+| Findings | [Findings of the Association for Computational Linguistics](https://aclanthology.org/venues/findings/) | 2020, 2021, 2022, 2023, 2024, 2025 |
 | ICCV | [International Conference on Computer Vision](https://openaccess.thecvf.com/) | 2017, 2019, 2021, 2023 |
 | ICLR | [International Conference on Learning Representations](https://openreview.net/group?id=ICLR.cc) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
 | ICML | [International Conference on Machine Learning](https://proceedings.mlr.press/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
