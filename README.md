@@ -16,7 +16,7 @@ Currently it contains the titles, abstracts, urls, and authors names from the gi
 | ECCV | [European Conference on Computer Vision (ECCV)](https://www.ecva.net/papers.php) | 2018, 2020, 2022, 2024 |
 | EMNLP | [Conference on Empirical Methods in Natural Language Processing](https://aclanthology.org/venues/emnlp/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
 | Findings | [Findings of the Association for Computational Linguistics](https://aclanthology.org/venues/findings/) | 2020, 2021, 2022, 2023, 2024, 2025 |
-| ICCV | [International Conference on Computer Vision](https://openaccess.thecvf.com/) | 2017, 2019, 2021, 2023 |
+| ICCV | [International Conference on Computer Vision](https://openaccess.thecvf.com/) | 2017, 2019, 2021, 2023, 2025 |
 | ICLR | [International Conference on Learning Representations](https://openreview.net/group?id=ICLR.cc) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
 | ICML | [International Conference on Machine Learning](https://proceedings.mlr.press/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
 | ICRA | [IEEE International Conference on Robotics and Automation](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
