@@ -14,7 +14,7 @@ Currently it contains the titles, abstracts, urls, and authors names from the gi
 | CVPR | [The IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://openaccess.thecvf.com/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
 | EACL | [European Chapter of the Association for Computational Linguistics](https://aclanthology.org/venues/eacl/) | 2017, 2021, 2023, 2024 |
 | ECCV | [European Conference on Computer Vision (ECCV)](https://www.ecva.net/papers.php) | 2018, 2020, 2022, 2024 |
-| EMNLP | [Conference on Empirical Methods in Natural Language Processing](https://aclanthology.org/venues/emnlp/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
+| EMNLP | [Conference on Empirical Methods in Natural Language Processing](https://aclanthology.org/venues/emnlp/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
 | Findings | [Findings of the Association for Computational Linguistics](https://aclanthology.org/venues/findings/) | 2020, 2021, 2022, 2023, 2024, 2025 |
 | ICCV | [International Conference on Computer Vision](https://openaccess.thecvf.com/) | 2017, 2019, 2021, 2023, 2025 |
 | ICLR | [International Conference on Learning Representations](https://openreview.net/group?id=ICLR.cc) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
@@ -27,7 +27,7 @@ Currently it contains the titles, abstracts, urls, and authors names from the gi
 | NAACL | [North American Chapter of the Association for Computational Linguistics](https://aclanthology.org/venues/naacl/) | 2018, 2019, 2021, 2022, 2024, 2025 |
 | NeurIPS | [Annual Conference on Neural Information Processing Systems](https://proceedings.neurips.cc/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
 | SIGCHI | [ACM Special Interest Group on Computer-Human Interaction](https://sigchi.org/) | 2018, 2019, 2020, 2021, 2022 |
-| SIGDIAL | [ACL/ISCA Special Interest Group on Discourse and Dialogue](https://aclanthology.org/sigs/sigdial/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
+| SIGDIAL | [ACL/ISCA Special Interest Group on Discourse and Dialogue](https://aclanthology.org/sigs/sigdial/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
 | SIGGRAPH | [International Conference & Exhibition On Computer Graphics & Interactive Techniques](https://www.siggraph.org/siggraph-events/conferences/) | 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025 |
 | SIGGRAPH Asia | [ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia](https://www.siggraph.org/siggraph-events/conferences/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
 | TACL | [Transactions of the Association for Computational Linguistics](https://aclanthology.org/venues/tacl/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
