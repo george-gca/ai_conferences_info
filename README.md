@@ -17,7 +17,7 @@ Currently it contains the titles, abstracts, urls, and authors names from the gi
 | EMNLP | [Conference on Empirical Methods in Natural Language Processing](https://aclanthology.org/venues/emnlp/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
 | Findings | [Findings of the Association for Computational Linguistics](https://aclanthology.org/venues/findings/) | 2020, 2021, 2022, 2023, 2024, 2025 |
 | ICCV | [International Conference on Computer Vision](https://openaccess.thecvf.com/) | 2017, 2019, 2021, 2023, 2025 |
-| ICLR | [International Conference on Learning Representations](https://openreview.net/group?id=ICLR.cc) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
+| ICLR | [International Conference on Learning Representations](https://openreview.net/group?id=ICLR.cc) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 |
 | ICML | [International Conference on Machine Learning](https://proceedings.mlr.press/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
 | ICRA | [IEEE International Conference on Robotics and Automation](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
 | IJCAI | [International Joint Conferences on Artificial Intelligence](https://www.ijcai.org/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
@@ -25,12 +25,12 @@ Currently it contains the titles, abstracts, urls, and authors names from the gi
 | IJCV | [International Journal of Computer Vision](https://link.springer.com/journal/11263) | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
 | KDD | [ACM SIGKDD International Conference on Knowledge Discovery and Data Mining](https://kdd.org/) | 2017, 2018, 2020, 2021, 2022, 2023 |
 | NAACL | [North American Chapter of the Association for Computational Linguistics](https://aclanthology.org/venues/naacl/) | 2018, 2019, 2021, 2022, 2024, 2025 |
-| NeurIPS | [Annual Conference on Neural Information Processing Systems](https://proceedings.neurips.cc/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
+| NeurIPS | [Annual Conference on Neural Information Processing Systems](https://proceedings.neurips.cc/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
 | SIGCHI | [ACM Special Interest Group on Computer-Human Interaction](https://sigchi.org/) | 2018, 2019, 2020, 2021, 2022 |
 | SIGDIAL | [ACL/ISCA Special Interest Group on Discourse and Dialogue](https://aclanthology.org/sigs/sigdial/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
 | SIGGRAPH | [International Conference & Exhibition On Computer Graphics & Interactive Techniques](https://www.siggraph.org/siggraph-events/conferences/) | 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025 |
 | SIGGRAPH Asia | [ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia](https://www.siggraph.org/siggraph-events/conferences/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
 | TACL | [Transactions of the Association for Computational Linguistics](https://aclanthology.org/venues/tacl/) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
-| TPAMI | [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
+| TPAMI | [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 |
 | UAI | [Conference on Uncertainty in Artificial Intelligence](https://www.auai.org/) | 2019, 2020, 2021, 2022, 2023, 2024 |
-| WACV | [IEEE/CVF Winter Conference on Applications of Computer Vision](https://openaccess.thecvf.com/) | 2020, 2021, 2022, 2023, 2024, 2025 |
+| WACV | [IEEE/CVF Winter Conference on Applications of Computer Vision](https://openaccess.thecvf.com/) | 2020, 2021, 2022, 2023, 2024, 2025, 2026 |
